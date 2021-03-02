@@ -109,7 +109,7 @@ class MyAppCore extends StatelessWidget {
             initialRoute: Routes.rootPage,
             builder: DevicePreview.appBuilder), // <--- /!\ Add the builder)
         theme: Theme.of(context),
-        title: 'Green Energy',
+        title: 'Project Template',
       ),
     );
   }
